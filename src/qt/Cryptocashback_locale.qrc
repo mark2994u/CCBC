@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Cryptocashback_bg.qm</file>
+        <file alias="ca">locale/Cryptocashback_ca.qm</file>
+        <file alias="cs">locale/Cryptocashback_cs.qm</file>
+        <file alias="da">locale/Cryptocashback_da.qm</file>
+        <file alias="de">locale/Cryptocashback_de.qm</file>
+        <file alias="en">locale/Cryptocashback_en.qm</file>
+        <file alias="en_US">locale/Cryptocashback_en_US.qm</file>
+        <file alias="es">locale/Cryptocashback_es.qm</file>
+        <file alias="fi">locale/Cryptocashback_fi.qm</file>
+        <file alias="fr_FR">locale/Cryptocashback_fr_FR.qm</file>
+        <file alias="it">locale/Cryptocashback_it.qm</file>
+        <file alias="ja">locale/Cryptocashback_ja.qm</file>
+        <file alias="ko_KR">locale/Cryptocashback_ko_KR.qm</file>
+        <file alias="nl">locale/Cryptocashback_nl.qm</file>
+        <file alias="pl">locale/Cryptocashback_pl.qm</file>
+        <file alias="pt">locale/Cryptocashback_pt.qm</file>
+        <file alias="pt_BR">locale/Cryptocashback_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Cryptocashback_ro_RO.qm</file>
+        <file alias="ru">locale/Cryptocashback_ru.qm</file>
+        <file alias="sk">locale/Cryptocashback_sk.qm</file>
+        <file alias="sv">locale/Cryptocashback_sv.qm</file>
+        <file alias="tr">locale/Cryptocashback_tr.qm</file>
+        <file alias="uk">locale/Cryptocashback_uk.qm</file>
+        <file alias="zh_CN">locale/Cryptocashback_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Cryptocashback_zh_TW.qm</file>
+    </qresource>
+</RCC>

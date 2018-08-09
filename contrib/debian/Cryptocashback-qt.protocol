@@ -1,0 +1,11 @@
+[Protocol]
+exec=Cryptocashback-qt '%u'
+protocol=Cryptocashback
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

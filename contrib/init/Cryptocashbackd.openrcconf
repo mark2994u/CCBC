@@ -1,0 +1,26 @@
+# /etc/conf.d/Cryptocashbackd: config file for /etc/init.d/Cryptocashbackd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/Cryptocashback/Cryptocashback.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/Cryptocashbackd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/Cryptocashbackd.pid"
+
+# Where to write Cryptocashbackd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/Cryptocashbackd"
+
+# User and group to own Cryptocashbackd process
+#BITCOIND_USER="Cryptocashback"
+#BITCOIND_GROUP="Cryptocashback"
+
+# Path to Cryptocashbackd executable
+#BITCOIND_BIN="/usr/bin/Cryptocashbackd"
+
+# Nice value to run Cryptocashbackd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

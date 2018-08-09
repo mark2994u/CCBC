@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cryptocashback
+Comment=Cryptocashback P2P Cryptocurrency
+Exec=Cryptocashback-qt %u
+Terminal=false
+Type=Application
+Icon=Cryptocashback128
+MimeType=x-scheme-handler/Cryptocashback;
+Categories=Office;Finance;
+Name[en_US]=Cryptocashback-qt.desktop
